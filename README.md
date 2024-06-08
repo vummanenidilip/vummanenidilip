@@ -47,11 +47,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vummanenidilip&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vummanenidilip&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vummanenidilip" alt="GitHub Streak" />
-</p>
 ```
