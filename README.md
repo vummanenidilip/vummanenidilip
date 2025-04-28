@@ -44,14 +44,6 @@
   <img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge" alt="LangChain" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vummanenidilip&show_icons=true&theme=default&locale=en" alt="Dilip's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vummanenidilip&layout=compact&theme=default" alt="Top Languages" />
-</p>
 
 ---
 
