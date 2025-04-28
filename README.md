@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dilip-vummaneni" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn - Dilip Vummaneni" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://github.com/vummanenidilip" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" alt="GitHub - vummanenidilip" />
+    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<h3 align="center">🛠️ Skills & Tools</h3>
+<h3 align="center">⚙️ Skills & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
