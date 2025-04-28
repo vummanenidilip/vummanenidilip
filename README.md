@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="mailto:vmndilip@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
